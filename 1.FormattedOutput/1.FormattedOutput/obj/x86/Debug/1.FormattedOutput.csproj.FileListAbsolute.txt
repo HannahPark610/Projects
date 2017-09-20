@@ -1,0 +1,5 @@
+/Users/hyunyoungpark/VisualStudioProjects/1.FormattedOutput/1.FormattedOutput/bin/Debug/1.FormattedOutput.exe
+/Users/hyunyoungpark/VisualStudioProjects/1.FormattedOutput/1.FormattedOutput/bin/Debug/1.FormattedOutput.pdb
+/Users/hyunyoungpark/VisualStudioProjects/1.FormattedOutput/1.FormattedOutput/obj/x86/Debug/1.FormattedOutput.csproj.CoreCompileInputs.cache
+/Users/hyunyoungpark/VisualStudioProjects/1.FormattedOutput/1.FormattedOutput/obj/x86/Debug/1.FormattedOutput.exe
+/Users/hyunyoungpark/VisualStudioProjects/1.FormattedOutput/1.FormattedOutput/obj/x86/Debug/1.FormattedOutput.pdb

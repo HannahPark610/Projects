@@ -1,0 +1,10 @@
+﻿using System;
+namespace FormattedOutput
+{
+	public class _
+	{
+		public _()
+		{
+		}
+	}
+}

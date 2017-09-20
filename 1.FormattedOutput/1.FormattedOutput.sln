@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.FormattedOutput", "1.FormattedOutput\1.FormattedOutput.csproj", "{F109C87B-DB81-48F5-A9AC-E89D231EE6BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.ConversionParse1", "..\3.ConversionParse1\3.ConversionParse1.csproj", "{750B0E8F-449F-4FAB-8DF1-6F09D4DC2C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F109C87B-DB81-48F5-A9AC-E89D231EE6BE}.Debug|x86.ActiveCfg = Debug|x86
+		{F109C87B-DB81-48F5-A9AC-E89D231EE6BE}.Debug|x86.Build.0 = Debug|x86
+		{F109C87B-DB81-48F5-A9AC-E89D231EE6BE}.Release|x86.ActiveCfg = Release|x86
+		{F109C87B-DB81-48F5-A9AC-E89D231EE6BE}.Release|x86.Build.0 = Release|x86
+		{750B0E8F-449F-4FAB-8DF1-6F09D4DC2C1B}.Debug|x86.ActiveCfg = Debug|x86
+		{750B0E8F-449F-4FAB-8DF1-6F09D4DC2C1B}.Debug|x86.Build.0 = Debug|x86
+		{750B0E8F-449F-4FAB-8DF1-6F09D4DC2C1B}.Release|x86.ActiveCfg = Release|x86
+		{750B0E8F-449F-4FAB-8DF1-6F09D4DC2C1B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
