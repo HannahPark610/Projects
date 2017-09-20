@@ -1,0 +1,5 @@
+/Users/hyunyoungpark/VisualStudioProjects/Operators/Operators/bin/Debug/Operators.exe
+/Users/hyunyoungpark/VisualStudioProjects/Operators/Operators/bin/Debug/Operators.pdb
+/Users/hyunyoungpark/VisualStudioProjects/Operators/Operators/obj/x86/Debug/Operators.csproj.CoreCompileInputs.cache
+/Users/hyunyoungpark/VisualStudioProjects/Operators/Operators/obj/x86/Debug/Operators.exe
+/Users/hyunyoungpark/VisualStudioProjects/Operators/Operators/obj/x86/Debug/Operators.pdb
