@@ -3,3 +3,4 @@
 /Users/hyunyoungpark/VisualStudioProjects/Assignment1/Assignment1_2-1/A2.2/obj/x86/Debug/A2.2.csproj.CoreCompileInputs.cache
 /Users/hyunyoungpark/VisualStudioProjects/Assignment1/Assignment1_2-1/A2.2/obj/x86/Debug/A2.2.exe
 /Users/hyunyoungpark/VisualStudioProjects/Assignment1/Assignment1_2-1/A2.2/obj/x86/Debug/A2.2.pdb
+/Users/hyunyoungpark/VisualStudioProjects/Assignment1/Assignment1_2-1/A2.2/obj/x86/Debug/A2.2.csprojResolveAssemblyReference.cache

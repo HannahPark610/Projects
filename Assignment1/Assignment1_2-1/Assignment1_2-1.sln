@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1_2-1", "Assignme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2.2", "A2.2\A2.2.csproj", "{CAEDE8F8-5BFC-4E33-ADC5-4F2A437C83DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2.3", "A2.3\A2.3.csproj", "{B0B496DA-E981-4FF1-BC4C-D26BEDD866AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,5 +21,9 @@ Global
 		{CAEDE8F8-5BFC-4E33-ADC5-4F2A437C83DD}.Debug|x86.Build.0 = Debug|x86
 		{CAEDE8F8-5BFC-4E33-ADC5-4F2A437C83DD}.Release|x86.ActiveCfg = Release|x86
 		{CAEDE8F8-5BFC-4E33-ADC5-4F2A437C83DD}.Release|x86.Build.0 = Release|x86
+		{B0B496DA-E981-4FF1-BC4C-D26BEDD866AA}.Debug|x86.ActiveCfg = Debug|x86
+		{B0B496DA-E981-4FF1-BC4C-D26BEDD866AA}.Debug|x86.Build.0 = Debug|x86
+		{B0B496DA-E981-4FF1-BC4C-D26BEDD866AA}.Release|x86.ActiveCfg = Release|x86
+		{B0B496DA-E981-4FF1-BC4C-D26BEDD866AA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
