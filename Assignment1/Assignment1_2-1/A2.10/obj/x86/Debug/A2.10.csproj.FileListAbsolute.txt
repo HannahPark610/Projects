@@ -1,0 +1,5 @@
+/Users/hyunyoungpark/VisualStudioProjects/Assignment1/Assignment1_2-1/A2.10/obj/x86/Debug/A2.10.csproj.CoreCompileInputs.cache
+/Users/hyunyoungpark/VisualStudioProjects/Assignment1/Assignment1_2-1/A2.10/bin/Debug/A2.10.exe
+/Users/hyunyoungpark/VisualStudioProjects/Assignment1/Assignment1_2-1/A2.10/bin/Debug/A2.10.pdb
+/Users/hyunyoungpark/VisualStudioProjects/Assignment1/Assignment1_2-1/A2.10/obj/x86/Debug/A2.10.exe
+/Users/hyunyoungpark/VisualStudioProjects/Assignment1/Assignment1_2-1/A2.10/obj/x86/Debug/A2.10.pdb
