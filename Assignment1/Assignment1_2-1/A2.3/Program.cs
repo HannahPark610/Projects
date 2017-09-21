@@ -6,7 +6,7 @@ namespace A2
     {
         public static void Main()
         {
-			Console.Write("Enter the amount of celsius: ");
+			Console.Write("Enter the amount of celsius what you choose: ");
 			int celsius = Convert.ToInt32(Console.ReadLine());
 
 			Console.WriteLine("Kelvin = {0}", celsius + 273);

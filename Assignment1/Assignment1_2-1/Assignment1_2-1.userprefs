@@ -1,21 +1,10 @@
-﻿<Properties StartupConfiguration="{B0B496DA-E981-4FF1-BC4C-D26BEDD866AA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="A2.3/Program.cs">
+﻿<Properties StartupConfiguration="{5CE57CE5-311D-48D2-B6A9-BBFB03AD0AF3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="A2.2/Program.cs">
     <Files>
-      <File FileName="A2.2/Program.cs" Line="1" Column="1" />
-      <File FileName="Assignment1_2-1/Program.cs" Line="3" Column="25" />
-      <File FileName="A2.3/Program.cs" Line="13" Column="66" />
+      <File FileName="A2.4/Program.cs" Line="22" Column="1" />
+      <File FileName="A2.5/Program.cs" Line="10" Column="1" />
+      <File FileName="A2.2/Program.cs" Line="11" Column="60" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Assignment1_2-1" expanded="True">
-            <Node name="A2.2" expanded="True" />
-            <Node name="A2.3" expanded="True" selected="True" />
-            <Node name="Assignment1_2-1" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -24,6 +13,8 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Assignment1__2-1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.A2.5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.A2.4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.A2.3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.A2.2 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
