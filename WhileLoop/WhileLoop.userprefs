@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{9F7D0A1A-6B6C-4362-B64F-6CA716AEC0C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2.ForloopFactorial/Program.cs">
+    <Files>
+      <File FileName="WhileLoop/Program.cs" Line="30" Column="31" />
+      <File FileName="2.ForloopFactorial/Program.cs" Line="47" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.2.ForloopFactorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WhileLoop PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

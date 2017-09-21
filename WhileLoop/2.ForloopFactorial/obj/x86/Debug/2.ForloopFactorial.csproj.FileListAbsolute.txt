@@ -1,0 +1,5 @@
+/Users/hyunyoungpark/VisualStudioProjects/WhileLoop/2.ForloopFactorial/bin/Debug/2.ForloopFactorial.exe
+/Users/hyunyoungpark/VisualStudioProjects/WhileLoop/2.ForloopFactorial/bin/Debug/2.ForloopFactorial.pdb
+/Users/hyunyoungpark/VisualStudioProjects/WhileLoop/2.ForloopFactorial/obj/x86/Debug/2.ForloopFactorial.csproj.CoreCompileInputs.cache
+/Users/hyunyoungpark/VisualStudioProjects/WhileLoop/2.ForloopFactorial/obj/x86/Debug/2.ForloopFactorial.exe
+/Users/hyunyoungpark/VisualStudioProjects/WhileLoop/2.ForloopFactorial/obj/x86/Debug/2.ForloopFactorial.pdb
