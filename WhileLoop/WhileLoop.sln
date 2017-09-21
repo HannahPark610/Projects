@@ -5,6 +5,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoop", "WhileLoop\Whil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ForloopFactorial", "2.ForloopFactorial\2.ForloopFactorial.csproj", "{9F7D0A1A-6B6C-4362-B64F-6CA716AEC0C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "..\Array\Arrays.csproj", "{0147CDBA-8B75-491D-902A-454BB00DE6FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrixs", "..\Array\Matrixs\Matrixs.csproj", "{AF6B8974-881E-4881-BB45-94964662C285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArray", "..\Array\JaggedArray\JaggedArray.csproj", "{F7E7F9C0-ACFF-401D-9038-95000FA1A9DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparators", "..\Array\Comparators\Comparators.csproj", "{492A9DAE-FCF2-40A1-A018-595BCC262976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassByValue", "..\PassByValue\PassByValue.csproj", "{9D4F0F39-450B-4036-A238-F6C800C6DA8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.OptionalParameters", "..\PassByValue\3.OptionalParameters\3.OptionalParameters.csproj", "{F3A19AAD-B0BB-466F-8141-D18B579B99B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,5 +31,29 @@ Global
 		{9F7D0A1A-6B6C-4362-B64F-6CA716AEC0C1}.Debug|x86.Build.0 = Debug|x86
 		{9F7D0A1A-6B6C-4362-B64F-6CA716AEC0C1}.Release|x86.ActiveCfg = Release|x86
 		{9F7D0A1A-6B6C-4362-B64F-6CA716AEC0C1}.Release|x86.Build.0 = Release|x86
+		{0147CDBA-8B75-491D-902A-454BB00DE6FE}.Debug|x86.ActiveCfg = Debug|x86
+		{0147CDBA-8B75-491D-902A-454BB00DE6FE}.Debug|x86.Build.0 = Debug|x86
+		{0147CDBA-8B75-491D-902A-454BB00DE6FE}.Release|x86.ActiveCfg = Release|x86
+		{0147CDBA-8B75-491D-902A-454BB00DE6FE}.Release|x86.Build.0 = Release|x86
+		{AF6B8974-881E-4881-BB45-94964662C285}.Debug|x86.ActiveCfg = Debug|x86
+		{AF6B8974-881E-4881-BB45-94964662C285}.Debug|x86.Build.0 = Debug|x86
+		{AF6B8974-881E-4881-BB45-94964662C285}.Release|x86.ActiveCfg = Release|x86
+		{AF6B8974-881E-4881-BB45-94964662C285}.Release|x86.Build.0 = Release|x86
+		{F7E7F9C0-ACFF-401D-9038-95000FA1A9DC}.Debug|x86.ActiveCfg = Debug|x86
+		{F7E7F9C0-ACFF-401D-9038-95000FA1A9DC}.Debug|x86.Build.0 = Debug|x86
+		{F7E7F9C0-ACFF-401D-9038-95000FA1A9DC}.Release|x86.ActiveCfg = Release|x86
+		{F7E7F9C0-ACFF-401D-9038-95000FA1A9DC}.Release|x86.Build.0 = Release|x86
+		{492A9DAE-FCF2-40A1-A018-595BCC262976}.Debug|x86.ActiveCfg = Debug|x86
+		{492A9DAE-FCF2-40A1-A018-595BCC262976}.Debug|x86.Build.0 = Debug|x86
+		{492A9DAE-FCF2-40A1-A018-595BCC262976}.Release|x86.ActiveCfg = Release|x86
+		{492A9DAE-FCF2-40A1-A018-595BCC262976}.Release|x86.Build.0 = Release|x86
+		{9D4F0F39-450B-4036-A238-F6C800C6DA8F}.Debug|x86.ActiveCfg = Debug|x86
+		{9D4F0F39-450B-4036-A238-F6C800C6DA8F}.Debug|x86.Build.0 = Debug|x86
+		{9D4F0F39-450B-4036-A238-F6C800C6DA8F}.Release|x86.ActiveCfg = Release|x86
+		{9D4F0F39-450B-4036-A238-F6C800C6DA8F}.Release|x86.Build.0 = Release|x86
+		{F3A19AAD-B0BB-466F-8141-D18B579B99B1}.Debug|x86.ActiveCfg = Debug|x86
+		{F3A19AAD-B0BB-466F-8141-D18B579B99B1}.Debug|x86.Build.0 = Debug|x86
+		{F3A19AAD-B0BB-466F-8141-D18B579B99B1}.Release|x86.ActiveCfg = Release|x86
+		{F3A19AAD-B0BB-466F-8141-D18B579B99B1}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
