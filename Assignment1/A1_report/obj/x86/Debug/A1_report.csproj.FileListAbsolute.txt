@@ -1,0 +1,5 @@
+/Users/hyunyoungpark/VisualStudioProjects/Assignment1/A1_report/obj/x86/Debug/A1_report.csproj.CoreCompileInputs.cache
+/Users/hyunyoungpark/VisualStudioProjects/Assignment1/A1_report/bin/Debug/A1_report.exe
+/Users/hyunyoungpark/VisualStudioProjects/Assignment1/A1_report/bin/Debug/A1_report.pdb
+/Users/hyunyoungpark/VisualStudioProjects/Assignment1/A1_report/obj/x86/Debug/A1_report.exe
+/Users/hyunyoungpark/VisualStudioProjects/Assignment1/A1_report/obj/x86/Debug/A1_report.pdb
