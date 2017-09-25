@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{53E35F10-1177-4347-9E4B-07357448B95A}|Default">
+﻿<Properties StartupConfiguration="{0DADF602-C91A-400B-B4B0-C7AEB9DAE115}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="../../A1_report/Program.cs">
     <Files>
-      <File FileName="../../A1_report/Program.cs" Line="141" Column="18" />
+      <File FileName="../../A1_report/Program.cs" Line="7" Column="47" />
       <File FileName="../A1.10/Program.cs" Line="19" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
@@ -12,4 +12,5 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.A1.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.A1__report PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
