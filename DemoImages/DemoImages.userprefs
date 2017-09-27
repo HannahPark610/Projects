@@ -1,15 +1,15 @@
-﻿<Properties StartupConfiguration="{F8DDA025-9A14-47A1-8436-B066B836CB24}|Default">
+﻿<Properties StartupConfiguration="{1787F26B-DE75-45BB-B856-04D2FC9E9766}|Default">
   <MonoDevelop.Ide.ItemProperties.DemoImages.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DemoImages/CSharpClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoImages/App.xaml.cs">
     <Files>
-      <File FileName="DemoImages/DemoImagesPage.xaml" Line="20" Column="1" />
-      <File FileName="DemoImages/DemoImagesPage.xaml.cs" Line="18" Column="1" />
+      <File FileName="DemoImages/DemoImagesPage.xaml.cs" Line="13" Column="38" />
+      <File FileName="../PracticeImages/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="../PracticeImages/App.xaml" Line="7" Column="1" />
+      <File FileName="../PracticeImages/PracticeImagesPage.xaml.cs" Line="10" Column="53" />
+      <File FileName="../PracticeImages/PracticeImagesPage.xaml" Line="22" Column="1" />
+      <File FileName="DemoImages/DemoImagesPage.xaml" Line="18" Column="22" />
       <File FileName="DemoImages/App.xaml.cs" Line="30" Column="1" />
       <File FileName="DemoImages/App.xaml" Line="7" Column="1" />
-      <File FileName="DemoImages/EmbeddedImage.cs" Line="1" Column="1" />
-      <File FileName="DemoImages/EmbeddedImages.xaml" Line="6" Column="1" />
-      <File FileName="DemoImages/EmbeddedImages.xaml.cs" Line="17" Column="1" />
-      <File FileName="DemoImages/CSharpClass.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -17,7 +17,11 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PracticeImages.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PracticeImages.iOS>
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.PracticeImages.iOS>
   <MonoDevelop.Ide.ItemProperties.DemoImages.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8CC5352C-EA56-4D44-B966-15AA628C7A0A">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.DemoImages.iOS>

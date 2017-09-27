@@ -3,8 +3,9 @@ namespace DemoImages
 {
     public class CSharpClass
     {
-        public CSharpClass()
+        class CSharpClass : IMarkupExtension
         {
+            public object 
         }
     }
 }

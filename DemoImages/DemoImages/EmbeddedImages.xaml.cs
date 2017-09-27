@@ -5,11 +5,15 @@ using Xamarin.Forms;
 
 namespace DemoImages
 {
-    public partial class EmbeddedImages : ContentPage
-    {
-        public EmbeddedImages()
+   class EmbeddedImages : IMarkupExtension
         {
-            InitializeComponent();
+            public string ResourceId { get; set; }
+            public object ProvideValue(IServiceProvider)
+            {
+                if (string.IsNullOrWhiteSpace(ResourceId))
+                    return null;
+                return ImageSource.FromResource("DemoImages.Images.batdroid.png");
+            }
         }
     }
-}
+

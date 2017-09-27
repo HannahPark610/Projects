@@ -1,0 +1,3 @@
+/Users/hyunyoungpark/VisualStudioProjects/PracticeImages/obj/Debug/PracticeImages.csproj.CoreCompileInputs.cache
+/Users/hyunyoungpark/VisualStudioProjects/PracticeImages/obj/Debug/PracticeImages.App.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/PracticeImages/obj/Debug/PracticeImages.PracticeImagesPage.xaml.g.cs
