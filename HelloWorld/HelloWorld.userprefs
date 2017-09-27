@@ -1,5 +1,5 @@
-﻿<Properties StartupConfiguration="{693AF9E9-CA1F-4839-A973-1AC221C37D30}|Default">
-  <MonoDevelop.Ide.ItemProperties.HelloWorld.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+﻿<Properties StartupConfiguration="{A21529A6-14C5-41CC-8280-4E19EF76740D}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld.Droid PreferredExecutionTarget="Android.Android_ARMv7a" />
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/HelloWorldPage.xaml">
     <Files>
       <File FileName="HelloWorld/secondPage.xaml.cs" Line="8" Column="26" />

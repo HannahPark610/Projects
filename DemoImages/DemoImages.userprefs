@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{F8DDA025-9A14-47A1-8436-B066B836CB24}|Default">
+  <MonoDevelop.Ide.ItemProperties.DemoImages.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoImages/CSharpClass.cs">
+    <Files>
+      <File FileName="DemoImages/DemoImagesPage.xaml" Line="20" Column="1" />
+      <File FileName="DemoImages/DemoImagesPage.xaml.cs" Line="18" Column="1" />
+      <File FileName="DemoImages/App.xaml.cs" Line="30" Column="1" />
+      <File FileName="DemoImages/App.xaml" Line="7" Column="1" />
+      <File FileName="DemoImages/EmbeddedImage.cs" Line="1" Column="1" />
+      <File FileName="DemoImages/EmbeddedImages.xaml" Line="6" Column="1" />
+      <File FileName="DemoImages/EmbeddedImages.xaml.cs" Line="17" Column="1" />
+      <File FileName="DemoImages/CSharpClass.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DemoImages.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8CC5352C-EA56-4D44-B966-15AA628C7A0A">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.DemoImages.iOS>
+</Properties>
