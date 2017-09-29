@@ -9,7 +9,7 @@
         <StackLayout
             HorizontalOptions="Center"
             VerticalOptions="Center">
-            <Label Text="This id hpw application works!"/>
+            <Label Text="This is how application works!"/>
 
         </StackLayout>
 	</ContentPage.Content>

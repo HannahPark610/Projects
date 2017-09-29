@@ -8,8 +8,12 @@ namespace NavigationDemo
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new NavigationDemo.Contact()); //(.Contact : Starting Page)
-        }
+//          MainPage = new NavigationPage(new NavigationDemo.Contact()); 
+            //    .Contact : Starting Page
+
+            MainPage = new NavigationPage(new NavigationDemo.TabbedPageDemo());
+
+		}
 
         protected override void OnStart()
         {

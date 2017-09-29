@@ -21,3 +21,5 @@
 /Users/hyunyoungpark/VisualStudioProjects/NavigationDemo/NavigationDemo/obj/Debug/NavigationDemo.pdb
 /Users/hyunyoungpark/VisualStudioProjects/NavigationDemo/NavigationDemo/obj/Debug/NavigationDemo.Contact.xaml.g.cs
 /Users/hyunyoungpark/VisualStudioProjects/NavigationDemo/NavigationDemo/obj/Debug/NavigationDemo.Details.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/NavigationDemo/NavigationDemo/obj/Debug/NavigationDemo.TabbedPageDemo.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/NavigationDemo/NavigationDemo/obj/Debug/NavigationDemo.CarouselPageDemo.xaml.g.cs
