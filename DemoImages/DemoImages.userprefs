@@ -1,15 +1,18 @@
 ﻿<Properties StartupConfiguration="{1787F26B-DE75-45BB-B856-04D2FC9E9766}|Default">
   <MonoDevelop.Ide.ItemProperties.DemoImages.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DemoImages/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoImages/EmbeddingImages.xaml.cs">
     <Files>
-      <File FileName="DemoImages/DemoImagesPage.xaml.cs" Line="13" Column="38" />
+      <File FileName="DemoImages/DemoImagesPage.xaml.cs" Line="14" Column="63" />
       <File FileName="../PracticeImages/App.xaml.cs" Line="1" Column="1" />
       <File FileName="../PracticeImages/App.xaml" Line="7" Column="1" />
       <File FileName="../PracticeImages/PracticeImagesPage.xaml.cs" Line="10" Column="53" />
       <File FileName="../PracticeImages/PracticeImagesPage.xaml" Line="22" Column="1" />
-      <File FileName="DemoImages/DemoImagesPage.xaml" Line="18" Column="22" />
+      <File FileName="DemoImages/DemoImagesPage.xaml" Line="20" Column="1" />
       <File FileName="DemoImages/App.xaml.cs" Line="30" Column="1" />
       <File FileName="DemoImages/App.xaml" Line="7" Column="1" />
+      <File FileName="DemoImages/packages.config" Line="1" Column="1" />
+      <File FileName="DemoImages/EmbeddingImages.xaml" Line="5" Column="63" />
+      <File FileName="DemoImages/EmbeddingImages.xaml.cs" Line="16" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

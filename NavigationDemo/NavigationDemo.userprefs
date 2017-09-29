@@ -1,14 +1,9 @@
 ﻿<Properties StartupConfiguration="{FCB4E03E-BC42-431D-9CFA-E51407B3BF3B}|Default">
-  <MonoDevelop.Ide.ItemProperties.NavigationDemo.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NavigationDemo/App.xaml.cs">
-    <Files>
-      <File FileName="NavigationDemo/Contact.xaml.cs" Line="31" Column="13" />
-      <File FileName="NavigationDemo/TabbedPageDemo.xaml.cs" Line="14" Column="1" />
-      <File FileName="NavigationDemo/CarouselPageDemo.xaml.cs" Line="14" Column="3" />
-      <File FileName="NavigationDemo/CarouselPageDemo.xaml" Line="19" Column="1" />
-      <File FileName="NavigationDemo/App.xaml.cs" Line="14" Column="63" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NavigationDemo.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.ExerciseNavigation.iOS>
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ExerciseNavigation.iOS>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>

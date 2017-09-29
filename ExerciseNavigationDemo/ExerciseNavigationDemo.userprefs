@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{30BD7D57-255E-4430-8F34-92E7B07A1CE3}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExerciseNavigationDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8CC5352C-EA56-4D44-B966-15AA628C7A0A">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ExerciseNavigationDemo.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Downloads/Day 5 Navigation/Welcome.xaml">
+    <Files>
+      <File FileName="ExerciseNavigationDemo/Contacts.xaml.cs" Line="22" Column="36" />
+      <File FileName="ExerciseNavigationDemo/Details.xaml.cs" Line="5" Column="1" />
+      <File FileName="ExerciseNavigationDemo/ExerciseNavigationDemoPage.xaml.cs" Line="12" Column="9" />
+      <File FileName="ExerciseNavigationDemo/ExerciseNavigationDemoPage.xaml" Line="13" Column="1" />
+      <File FileName="ExerciseNavigationDemo/UserProfilePage.xaml.cs" Line="14" Column="3" />
+      <File FileName="ExerciseNavigationDemo/UserProfilePage.xaml" Line="11" Column="1" />
+      <File FileName="ExerciseNavigationDemo/ActivityFeedPage.xaml.cs" Line="20" Column="58" />
+      <File FileName="ExerciseNavigationDemo/ActivityFeedPage.xaml" Line="22" Column="1" />
+      <File FileName="ExerciseNavigationDemo/App.xaml" Line="7" Column="1" />
+      <File FileName="ExerciseNavigationDemo/App.xaml.cs" Line="11" Column="54" />
+      <File FileName="../../Downloads/Day 5 Navigation/Welcome.xaml" Line="10" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExerciseNavigationDemo.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>
