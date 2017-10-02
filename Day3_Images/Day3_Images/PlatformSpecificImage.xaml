@@ -1,5 +1,16 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Day3_Images.PlatformSpecificImage">
-	<ContentPage.Content>
-	</ContentPage.Content>
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="Day3_Images.PlatformSpecificImage">
+	<!--<Button Image="clock.png" x:Name="btn"/>-->
+    <Button x:Name="btn">
+        <Button.Image>
+            <OnPlatform x:TypeArguments="FileImageSource"
+                        iOS="clock.png"
+                        Android="clock.png"
+                        WinPhone="assets/clock.png"
+                        />
+        </Button.Image>
+    </Button>
 </ContentPage>

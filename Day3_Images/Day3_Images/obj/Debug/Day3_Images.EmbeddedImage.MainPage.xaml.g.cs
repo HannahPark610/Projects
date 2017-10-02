@@ -8,20 +8,20 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Day3_Images {
+namespace Day3_Images.EmbeddedImage {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/hyunyoungpark/VisualStudioProjects/Day3_Images/Day3_Images/PlatformSpecifi" +
-        "cImage.xaml")]
-    public partial class PlatformSpecificImage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/hyunyoungpark/VisualStudioProjects/Day3_Images/Day3_Images/EmbeddedImage/M" +
+        "ainPage.xaml")]
+    public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.Button btn;
+        private global::Xamarin.Forms.Image embeddedImage;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(PlatformSpecificImage));
-            btn = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "btn");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            embeddedImage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Image>(this, "embeddedImage");
         }
     }
 }

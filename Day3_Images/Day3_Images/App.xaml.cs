@@ -8,7 +8,7 @@ namespace Day3_Images
         {
             InitializeComponent();
 
-            MainPage = new Day3_ImagesPage();
+            MainPage = new Day3_Images.EmbeddedImage();
         }
 
         protected override void OnStart()

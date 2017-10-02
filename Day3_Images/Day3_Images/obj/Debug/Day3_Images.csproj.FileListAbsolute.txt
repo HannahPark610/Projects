@@ -1,0 +1,7 @@
+/Users/hyunyoungpark/VisualStudioProjects/Day3_Images/Day3_Images/obj/Debug/Day3_Images.csprojResolveAssemblyReference.cache
+/Users/hyunyoungpark/VisualStudioProjects/Day3_Images/Day3_Images/obj/Debug/Day3_Images.csproj.CoreCompileInputs.cache
+/Users/hyunyoungpark/VisualStudioProjects/Day3_Images/Day3_Images/obj/Debug/Day3_Images.App.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/Day3_Images/Day3_Images/obj/Debug/Day3_Images.Day3_ImagesPage.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/Day3_Images/Day3_Images/obj/Debug/Day3_Images.PlatformSpecificImage.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/Day3_Images/Day3_Images/obj/Debug/Day3_Images.EmbeddedImage.MainPage.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/Day3_Images/Day3_Images/obj/Debug/Day3_Images.EmbeddedImage.ImageResourceExtension.xaml.g.cs
