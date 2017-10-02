@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{2C647AAB-34C8-426F-94E6-EAA897033262}|Default">
+  <MonoDevelop.Ide.ItemProperties.Day1__Essential.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8CC5352C-EA56-4D44-B966-15AA628C7A0A">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Day1__Essential.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day1_Essential/MainPage.xaml">
+    <Files>
+      <File FileName="Day1_Essential/App.xaml.cs" Line="11" Column="51" />
+      <File FileName="Day1_Essential/MainPage.xaml" Line="6" Column="1" />
+      <File FileName="Day1_Essential/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Day1_Essential/GreetPage.xaml" Line="7" Column="1" />
+      <File FileName="Day1_Essential/GreetPage.xaml.cs" Line="19" Column="6" />
+      <File FileName="../../Teyang/C_sharp/Day 1/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -15,11 +15,12 @@ namespace NavigationDemo
     {
         public Details(ContactData contact)
         {
+            InitializeComponent();
             if (contact == null)
                 throw new ArgumentNullException();
 
             BindingContext = contact;
-            InitializeComponent();
+
 
         }
 
@@ -27,8 +28,8 @@ namespace NavigationDemo
         public Details()
         {
             InitializeComponent();
-            myListView.EndRefresh();
-            myListView.IsRefreshing = false;
+            //myListView.EndRefresh();
+            //myListView.IsRefreshing = false;
         }
     }
  }

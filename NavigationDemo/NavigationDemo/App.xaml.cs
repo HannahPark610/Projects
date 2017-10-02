@@ -11,7 +11,7 @@ namespace NavigationDemo
 //          MainPage = new NavigationPage(new NavigationDemo.Contact()); 
             //    .Contact : Starting Page
 
-            MainPage = new TabbedPageDemo();
+            MainPage = new NavigationPage(new TabbedPageDemo());
 
 		}
 
