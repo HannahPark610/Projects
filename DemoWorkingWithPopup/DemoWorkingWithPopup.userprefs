@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{7E6D44C9-D333-4B5F-8744-3C8371A28B1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoWorkingWithPopup/obj/Debug/DemoWorkingWithPopup.Picker.xaml.g.cs">
+    <Files>
+      <File FileName="DemoWorkingWithPopup/SliderDemo.xaml" Line="17" Column="1" />
+      <File FileName="DemoWorkingWithPopup/SliderDemo.xaml.cs" Line="1" Column="1" />
+      <File FileName="DemoWorkingWithPopup/ActionSheet.xaml" Line="11" Column="1" />
+      <File FileName="DemoWorkingWithPopup/ComfirmationBox.xaml" Line="11" Column="1" />
+      <File FileName="DemoWorkingWithPopup/DemoWorkingWithPopupPage.xaml" Line="5" Column="1" />
+      <File FileName="DemoWorkingWithPopup/SwitchDemo.xaml" Line="15" Column="1" />
+      <File FileName="DemoWorkingWithPopup/App.xaml.cs" Line="11" Column="55" />
+      <File FileName="DemoWorkingWithPopup/Stepper.xaml" Line="14" Column="34" />
+      <File FileName="DemoWorkingWithPopup/Stepper.xaml.cs" Line="1" Column="1" />
+      <File FileName="DemoWorkingWithPopup/EntryDemo.xaml" Line="17" Column="1" />
+      <File FileName="DemoWorkingWithPopup/EntryDemo.xaml.cs" Line="22" Column="43" />
+      <File FileName="DemoWorkingWithPopup/obj/Debug/DemoWorkingWithPopup.EntryDemo.xaml.g.cs" Line="23" Column="1" />
+      <File FileName="DemoWorkingWithPopup/Picker.xaml" Line="8" Column="38" />
+      <File FileName="DemoWorkingWithPopup/Picker.xaml.cs" Line="21" Column="1" />
+      <File FileName="DemoWorkingWithPopup/ActionSheet.xaml.cs" Line="2" Column="34" />
+      <File FileName="DemoWorkingWithPopup/obj/Debug/DemoWorkingWithPopup.Picker.xaml.g.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DemoWorkingWithPopup.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8CC5352C-EA56-4D44-B966-15AA628C7A0A">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.DemoWorkingWithPopup.iOS>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DemoWorkingWithPopup.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
