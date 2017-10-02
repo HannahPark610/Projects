@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{988DDD6C-5298-40B3-A9DB-719336DE62AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day3_Images/PlatformSpecificImage.xaml.cs">
+    <Files>
+      <File FileName="Day3_Images/PlatformSpecificImage.xaml" Line="6" Column="1" />
+      <File FileName="Day3_Images/PlatformSpecificImage.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Day3__Images.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8CC5352C-EA56-4D44-B966-15AA628C7A0A">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Day3__Images.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>

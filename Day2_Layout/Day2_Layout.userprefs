@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{92769C98-A5A3-48A8-8EE2-39473C8E34C0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../Teyang/C_sharp/Day 2 Layout/RelativeLayout.xaml">
+﻿<Properties StartupConfiguration="{61CB5938-B467-4310-B0DF-7050E042F925}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day2_Layout/RelativeLayout.xaml">
     <Files>
-      <File FileName="Day2_Layout/RelativeLayout.xaml" Line="18" Column="5" />
+      <File FileName="Day2_Layout/RelativeLayout.xaml" Line="26" Column="15" />
       <File FileName="../../Teyang/C_sharp/Day 2 Layout/AbsoluteLayout.xaml" Line="18" Column="5" />
       <File FileName="../../Teyang/C_sharp/Day 2 Layout/GridLayout.xaml" Line="25" Column="15" />
       <File FileName="Day2_Layout/GridLayout.xaml" Line="26" Column="15" />
@@ -20,5 +20,6 @@
   <MonoDevelop.Ide.ItemProperties.Day2__Layout.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8CC5352C-EA56-4D44-B966-15AA628C7A0A">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.Day2__Layout.iOS>
+  <MonoDevelop.Ide.ItemProperties.Day2__Layout.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
   <MultiItemStartupConfigurations />
 </Properties>
