@@ -1,0 +1,8 @@
+/Users/hyunyoungpark/VisualStudioProjects/Day4_List/Day4_List/obj/Debug/Day4_List.csprojResolveAssemblyReference.cache
+/Users/hyunyoungpark/VisualStudioProjects/Day4_List/Day4_List/obj/Debug/Day4_List.csproj.CoreCompileInputs.cache
+/Users/hyunyoungpark/VisualStudioProjects/Day4_List/Day4_List/obj/Debug/Day4_List.App.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/Day4_List/Day4_List/obj/Debug/Day4_List.Day4_ListPage.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/Day4_List/Day4_List/obj/Debug/Day4_List.ContextAction.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/Day4_List/Day4_List/obj/Debug/Day4_List.CustomCellList.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/Day4_List/Day4_List/obj/Debug/Day4_List.GroupofContacts.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/Day4_List/Day4_List/obj/Debug/Day4_List.Selection.xaml.g.cs

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{00CC97D0-00E3-4D22-AB8D-CEE0CC292934}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day4_List/ContactGroup.cs">
+    <Files>
+      <File FileName="Day4_List/App.xaml.cs" Line="11" Column="52" />
+      <File FileName="Day4_List/ContextAction.xaml.cs" Line="8" Column="33" />
+      <File FileName="Day4_List/ContactGroup.cs" Line="4" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Day4__List.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8CC5352C-EA56-4D44-B966-15AA628C7A0A">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Day4__List.iOS>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Day4__List.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MultiItemStartupConfigurations />
+</Properties>
