@@ -11,7 +11,7 @@ using Xamarin.Forms.Xaml;
 namespace NavigationDemo
 {
 
-	public partial class Details : ContentPage
+    public partial class Details : ContentPage
     {
         public Details(ContactData contact)
         {
@@ -22,5 +22,14 @@ namespace NavigationDemo
             InitializeComponent();
 
         }
+
+
+        public Details()
+        {
+            InitializeComponent();
+            myListView.EndRefresh();
+            myListView.IsRefreshing = false;
+        }
     }
-}
+ }
+

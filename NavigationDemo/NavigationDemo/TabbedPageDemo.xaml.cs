@@ -9,9 +9,14 @@ namespace NavigationDemo
     {
         public TabbedPageDemo()
         {
-            InitializeComponent();
-			this.Children.Add(new Welcome());
-			this.Children.Add(new Contact());
-        }
-    }
+			InitializeComponent();
+            var Page1 = new NavigationPage(new Contact());
+			Page1.Title = "Activities";
+			this.Children.Add(Page1);
+            var Page2 = new NavigationPage(new Details());
+			Page2.Title = "Profile";
+			this.Children.Add(Page2);
+
+		}
+	}
 }

@@ -6,11 +6,21 @@
     Title="WELCOME"
     NavigationPage.HasNavigationBar="True">
 	<ContentPage.Content>
-        <StackLayout
-            HorizontalOptions="Center"
-            VerticalOptions="Center">
-            <Label Text="This is how application works!"/>
-
+        <StackLayout>
+            <ListView x:Name="myListView" SeparatorColor="Yellow"
+                IsGroupingEnabled="true"
+                GroupDisplayBinding="{Binding ShotrTitle}"
+                Header="Contact"
+                ItemTapped="MyListView_ItemTapped"
+                ItemSelected="MyListView_ItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell 
+                        Text="{Binding Name}" 
+                        Detail="Binding Status"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </StackLayout>
-	</ContentPage.Content>
+    </ContentPage.Content>
 </ContentPage>

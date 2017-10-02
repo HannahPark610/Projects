@@ -14,21 +14,20 @@ namespace NavigationDemo
         public Contact()
         {
             InitializeComponent();
-            listView.ItemsSource = new List<ContactData>
+            myListView.ItemsSource = new List<ContactData>
             {
-                new ContactData{Name="Hannah", Status="Active"},
-                new ContactData{Name="Mitali", Status="Active"},
-                new ContactData{Name="Saeko", Status="Active"},
-                new ContactData{Name="Shinji", Status="Active"},
-                new ContactData{Name="Ai", Status="Active"},
-                new ContactData{Name="Sena", Status="Active"}
+                new ContactData{Name="Mitali",Status="Active",ImageUrl="http://lorempixel.com/100/100/people/1"},
+                new ContactData{Name="Hannah", Status="Active", ImageUrl="http://lorempixel.com/100/100/people/2"},
+                new ContactData{Name="Saeko", Status="Active", ImageUrl="http://lorempixel.com/100/100/people/3"},
+                new ContactData{Name="Shinji", Status="Active", ImageUrl="http://lorempixel.com/100/100/people/4"},
+                new ContactData{Name="Ai", Status="Active", ImageUrl="http://lorempixel.com/100/100/people/5"},
+                new ContactData{Name="Sena", Status="Active", ImageUrl="http://lorempixel.com/100/100/people/6"}
             };
         }
-        // Handler evet That handles the selection in listView
-        private void listView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
-        {
-            var Contact1 = e.SelectedItem as ContactData;
-            Navigation.PushAsync(new Details(Contact1));
-        }
+		private async void listview_ItemSelected(object sender, SelectedItemChangedEventArgs e)
+		{
+			var Contact1 = e.SelectedItem as ContactData;
+			await Navigation.PushAsync(new Details(Contact1));
+		}
     }
 }

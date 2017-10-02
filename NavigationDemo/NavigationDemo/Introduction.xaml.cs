@@ -15,11 +15,17 @@ namespace NavigationDemo
         public Introduction()
         {
             InitializeComponent();
-        }
+            myListView.ItemsSource = new List<Group>
+            {
+                new Group("M1","M")
+                {
+                    new ContactData{Name="Mitali", Status="Active"},
+                    new ContactData{Name="Mary", Status="Sleeping"},
+                    new ContactData{Name="Mosh", Status="Active"}
+            }
 
-		private async void Button_Clicked(object sender, EventArgs e)
-		{
-            await Navigation.PopModalAsync();
-		}
+            };
+
+        }
     }
 }

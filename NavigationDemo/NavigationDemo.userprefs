@@ -1,9 +1,25 @@
 ﻿<Properties StartupConfiguration="{FCB4E03E-BC42-431D-9CFA-E51407B3BF3B}|Default">
   <MonoDevelop.Ide.ItemProperties.NavigationDemo.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.Workbench />
-  <MonoDevelop.Ide.ItemProperties.ExerciseNavigation.iOS>
-    <MonoDevelop.MacDev.AppleDevelopmentTeam />
-  </MonoDevelop.Ide.ItemProperties.ExerciseNavigation.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavigationDemo/TabbedPageDemo.xaml">
+    <Files>
+      <File FileName="NavigationDemo/Contact.xaml.cs" Line="30" Column="1" />
+      <File FileName="NavigationDemo/Details.xaml.cs" Line="29" Column="35" />
+      <File FileName="../../Downloads/Day 5 Navigation/Details.xaml" Line="1" Column="1" />
+      <File FileName="NavigationDemo/ContactData.cs" Line="14" Column="9" />
+      <File FileName="../../Downloads/Day 5 Navigation/Introduction.xaml" Line="1" Column="1" />
+      <File FileName="../../Downloads/Day 5 Navigation/Contacts.xaml" Line="8" Column="59" />
+      <File FileName="NavigationDemo/Contact.xaml" Line="12" Column="53" />
+      <File FileName="NavigationDemo/Details.xaml" Line="7" Column="22" />
+      <File FileName="NavigationDemo/obj/Debug/NavigationDemo.Details.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="NavigationDemo/TabbedPageDemo.xaml.cs" Line="22" Column="2" />
+      <File FileName="NavigationDemo/TabbedPageDemo.xaml" Line="9" Column="1" />
+      <File FileName="NavigationDemo/packages.config" Line="1" Column="1" />
+      <File FileName="NavigationDemo/Introduction.xaml.cs" Line="28" Column="13" />
+      <File FileName="NavigationDemo/App.xaml.cs" Line="14" Column="44" />
+      <File FileName="NavigationDemo/Group.cs" Line="13" Column="23" />
+      <File FileName="NavigationDemo/Introduction.xaml" Line="26" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
