@@ -8,7 +8,7 @@ namespace Day1_Essential
         {
             InitializeComponent();
 
-            MainPage = new Day1_Essential.MainPage();
+            MainPage = new Day1_Essential.Day1_EssentialPage();
         }
 
         protected override void OnStart()

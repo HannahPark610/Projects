@@ -2,14 +2,16 @@
   <MonoDevelop.Ide.ItemProperties.Day1__Essential.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8CC5352C-EA56-4D44-B966-15AA628C7A0A">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.Day1__Essential.iOS>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Day1_Essential/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day1_Essential/obj/Debug/Day1_Essential.Day1_EssentialPage.xaml.g.cs">
     <Files>
-      <File FileName="Day1_Essential/App.xaml.cs" Line="11" Column="51" />
-      <File FileName="Day1_Essential/MainPage.xaml" Line="23" Column="15" />
-      <File FileName="Day1_Essential/MainPage.xaml.cs" Line="34" Column="1" />
+      <File FileName="Day1_Essential/App.xaml.cs" Line="11" Column="61" />
       <File FileName="Day1_Essential/GreetPage.xaml" Line="7" Column="1" />
       <File FileName="Day1_Essential/GreetPage.xaml.cs" Line="19" Column="6" />
-      <File FileName="../../Teyang/C_sharp/Day 1/MainPage.xaml" Line="26" Column="15" />
+      <File FileName="Day1_Essential/Day1_EssentialPage.xaml" Line="15" Column="32" />
+      <File FileName="Day1_Essential/Day1_EssentialPage.xaml.cs" Line="32" Column="1" />
+      <File FileName="Day1_Essential/App.xaml" Line="7" Column="1" />
+      <File FileName="../../Teyang/Xamarin/Day 1/MainPage.xaml" Line="26" Column="15" />
+      <File FileName="Day1_Essential/obj/Debug/Day1_Essential.Day1_EssentialPage.xaml.g.cs" Line="26" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -17,9 +19,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Day2__Layout.iOS>
-    <MonoDevelop.MacDev.AppleDevelopmentTeam />
-  </MonoDevelop.Ide.ItemProperties.Day2__Layout.iOS>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Day1__Essential.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
 </Properties>

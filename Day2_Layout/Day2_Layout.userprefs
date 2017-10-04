@@ -1,15 +1,11 @@
 ﻿<Properties StartupConfiguration="{61CB5938-B467-4310-B0DF-7050E042F925}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Day2_Layout/RelativeLayout.xaml">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="Day2_Layout/RelativeLayout.xaml" Line="26" Column="15" />
-      <File FileName="../../Teyang/C_sharp/Day 2 Layout/AbsoluteLayout.xaml" Line="18" Column="5" />
-      <File FileName="../../Teyang/C_sharp/Day 2 Layout/GridLayout.xaml" Line="25" Column="15" />
       <File FileName="Day2_Layout/GridLayout.xaml" Line="26" Column="15" />
-      <File FileName="../../Teyang/C_sharp/Day 2 Layout/MainPage.xaml" Line="24" Column="15" />
-      <File FileName="Day2_Layout/MainPage.xaml" Line="6" Column="5" />
-      <File FileName="../../Teyang/C_sharp/Day 2 Layout/RelativeLayout.xaml" Line="26" Column="15" />
+      <File FileName="Day2_Layout/MainPage.xaml" Line="24" Column="15" />
       <File FileName="Day2_Layout/RelativeLayout.xaml.cs" Line="1" Column="1" />
-      <File FileName="Day2_Layout/AbsoluteLayout.xaml" Line="4" Column="5" />
+      <File FileName="Day2_Layout/AbsoluteLayout.xaml" Line="18" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

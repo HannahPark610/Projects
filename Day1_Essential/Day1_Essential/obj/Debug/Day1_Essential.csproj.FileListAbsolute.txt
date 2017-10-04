@@ -15,7 +15,6 @@
 /Users/hyunyoungpark/VisualStudioProjects/Day1_Essential/Day1_Essential/obj/Debug/Day1_Essential.csproj.CoreCompileInputs.cache
 /Users/hyunyoungpark/VisualStudioProjects/Day1_Essential/Day1_Essential/obj/Debug/Day1_Essential.App.xaml.g.cs
 /Users/hyunyoungpark/VisualStudioProjects/Day1_Essential/Day1_Essential/obj/Debug/Day1_Essential.Day1_EssentialPage.xaml.g.cs
-/Users/hyunyoungpark/VisualStudioProjects/Day1_Essential/Day1_Essential/obj/Debug/Day1_Essential.MainPage.xaml.g.cs
 /Users/hyunyoungpark/VisualStudioProjects/Day1_Essential/Day1_Essential/obj/Debug/Day1_Essential.GreetPage.xaml.g.cs
 /Users/hyunyoungpark/VisualStudioProjects/Day1_Essential/Day1_Essential/obj/Debug/Day1_Essential.dll
 /Users/hyunyoungpark/VisualStudioProjects/Day1_Essential/Day1_Essential/obj/Debug/Day1_Essential.pdb

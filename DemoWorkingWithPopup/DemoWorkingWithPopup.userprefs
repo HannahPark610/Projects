@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="DemoWorkingWithPopup/Picker.xaml.cs">
     <Files>
       <File FileName="DemoWorkingWithPopup/TableViewDemo.xaml.cs" Line="15" Column="2" />
-      <File FileName="DemoWorkingWithPopup/Picker.xaml.cs" Line="27" Column="27" />
+      <File FileName="DemoWorkingWithPopup/Picker.xaml.cs" Line="22" Column="14" />
       <File FileName="DemoWorkingWithPopup/Picker.xaml" Line="22" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
