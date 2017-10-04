@@ -24,3 +24,7 @@
 /Users/hyunyoungpark/VisualStudioProjects/DemoWorkingWithPopup/DemoWorkingWithPopup/obj/Debug/DemoWorkingWithPopup.Stepper.xaml.g.cs
 /Users/hyunyoungpark/VisualStudioProjects/DemoWorkingWithPopup/DemoWorkingWithPopup/obj/Debug/DemoWorkingWithPopup.EntryDemo.xaml.g.cs
 /Users/hyunyoungpark/VisualStudioProjects/DemoWorkingWithPopup/DemoWorkingWithPopup/obj/Debug/DemoWorkingWithPopup.Picker.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/DemoWorkingWithPopup/DemoWorkingWithPopup/obj/Debug/DemoWorkingWithPopup.ContactMethodPage.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/DemoWorkingWithPopup/DemoWorkingWithPopup/obj/Debug/DemoWorkingWithPopup.DateTimePicker.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/DemoWorkingWithPopup/DemoWorkingWithPopup/obj/Debug/DemoWorkingWithPopup.PickerWithNavigation.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/DemoWorkingWithPopup/DemoWorkingWithPopup/obj/Debug/DemoWorkingWithPopup.TableViewDemo.xaml.g.cs

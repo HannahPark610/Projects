@@ -8,7 +8,7 @@ namespace DemoWorkingWithPopup
         {
             InitializeComponent();
 
-            MainPage = new DemoWorkingWithPopup.Picker();
+            MainPage = new NavigationPage(new DemoWorkingWithPopup.PickerWithNavigation());
         }
 
         protected override void OnStart()

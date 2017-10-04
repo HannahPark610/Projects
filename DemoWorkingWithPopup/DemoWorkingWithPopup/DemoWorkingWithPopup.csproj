@@ -51,6 +51,18 @@
     <EmbeddedResource Include="Picker.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="ContactMethodPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateTimePicker.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PickerWithNavigation.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TableViewDemo.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -80,6 +92,18 @@
     </Compile>
     <Compile Include="Picker.xaml.cs">
       <DependentUpon>Picker.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContactMethodPage.xaml.cs">
+      <DependentUpon>ContactMethodPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DateTimePicker.xaml.cs">
+      <DependentUpon>DateTimePicker.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PickerWithNavigation.xaml.cs">
+      <DependentUpon>PickerWithNavigation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TableViewDemo.xaml.cs">
+      <DependentUpon>TableViewDemo.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

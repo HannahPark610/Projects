@@ -5,15 +5,18 @@
     x:Class="DemoWorkingWithPopup.Picker">
 	<ContentPage.Content>
         <StackLayout>
-            <Picker x:Name="mypicker"
-                SelectedIndexChanged="Handle_SelectedIndexChanged">
-                <Picker.Items>
+            
+            <Picker x:Name="myPicker"
+                Title="Contact Methods" 
+                  SelectedIndexChanged="myPicker_SelectedIndexChanged"  >
+                <!--<Picker.Items>
                     <x:String>Email</x:String>
                     <x:String>Call</x:String>
                     <x:String>Message</x:String>
                     <x:String>WhatsApp</x:String>
-                </Picker.Items>
+                </Picker.Items>-->                
             </Picker>
-         </StackLayout>
-	</ContentPage.Content>
+            
+        </StackLayout>
+    </ContentPage.Content>
 </ContentPage>
