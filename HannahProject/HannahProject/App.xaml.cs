@@ -8,7 +8,7 @@ namespace HannahProject
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new SecondPage());
+            MainPage = new NavigationPage(new LoginPage());
         }
 
         protected override void OnStart()

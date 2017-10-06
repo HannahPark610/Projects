@@ -6,12 +6,12 @@ using Xamarin.Forms;
 namespace HannahProject
 {
     public partial class LoginPage : ContentPage
-    {  
+    {
         void Handle_Clicked(object sender, System.EventArgs e)
         {
-            var page = new SecondPage();
-            Navigation.PushAsync(new Page());
+            Navigation.PushAsync(new SecondPage());
         }
+
 
         public LoginPage()
         {

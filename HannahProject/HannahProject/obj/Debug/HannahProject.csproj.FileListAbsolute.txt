@@ -17,3 +17,6 @@
 /Users/hyunyoungpark/VisualStudioProjects/HannahProject/HannahProject/bin/Debug/Xamarin.Forms.Xaml.xml
 /Users/hyunyoungpark/VisualStudioProjects/HannahProject/HannahProject/obj/Debug/HannahProject.dll
 /Users/hyunyoungpark/VisualStudioProjects/HannahProject/HannahProject/obj/Debug/HannahProject.pdb
+/Users/hyunyoungpark/VisualStudioProjects/HannahProject/HannahProject/obj/Debug/HannahProject.csprojResolveAssemblyReference.cache
+/Users/hyunyoungpark/VisualStudioProjects/HannahProject/HannahProject/obj/Debug/HannahProject.FirstPage.xaml.g.cs
+/Users/hyunyoungpark/VisualStudioProjects/HannahProject/HannahProject/obj/Debug/HannahProject.ThirdPage.xaml.g.cs
