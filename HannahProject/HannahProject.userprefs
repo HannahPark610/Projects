@@ -1,6 +1,12 @@
 ﻿<Properties StartupConfiguration="{705C85D8-98D1-43FD-8A57-B8B5F8D77A6E}|Default">
   <MonoDevelop.Ide.ItemProperties.HannahProject.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HannahProject/LoginPage.xaml.cs">
+    <Files>
+      <File FileName="HannahProject/LoginPage.xaml" Line="9" Column="22" />
+      <File FileName="HannahProject/obj/Debug/HannahProject.LoginPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="HannahProject/LoginPage.xaml.cs" Line="28" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

@@ -25,7 +25,7 @@ namespace HannahProject
             Lb1_Username.TextColor = Constants.MainTextColor;
             Lb1_Password.TextColor = Constants.MainTextColor;
             ActivitySpinner.IsVisible = false;
-            LoginIcon.HeightRequest = Constants.LoginIconHeight;
+            //LoginIcon.HeightRequest = Constants.LoginIconHeight;
 
             Entry_Username.Completed += (s, e) => Entry_Password.Focus();
             Entry_Password.Completed += (s, e) => SignInProcedure(s, e);

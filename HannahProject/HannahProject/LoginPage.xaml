@@ -6,7 +6,7 @@
     <StackLayout x:Name="MasterLayout">
 
         <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
-            <Image x:Name="LoginIcon" Source="logo.png" Margin="0,20,0,0" />
+            <Image x:Source="{local:logo.png}" Margin="0,20,0,0" />
         </StackLayout>
     
 	<StackLayout x:Name="LoginEnteriesStack" VerticalOptions="StartAndExpand">
