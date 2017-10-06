@@ -1,10 +1,13 @@
 ﻿<Properties StartupConfiguration="{705C85D8-98D1-43FD-8A57-B8B5F8D77A6E}|Default">
   <MonoDevelop.Ide.ItemProperties.HannahProject.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HannahProject/LoginPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HannahProject/SecondPage.xaml.cs">
     <Files>
-      <File FileName="HannahProject/LoginPage.xaml" Line="9" Column="22" />
+      <File FileName="HannahProject/LoginPage.xaml" Line="31" Column="1" />
       <File FileName="HannahProject/obj/Debug/HannahProject.LoginPage.xaml.g.cs" Line="1" Column="1" />
       <File FileName="HannahProject/LoginPage.xaml.cs" Line="28" Column="15" />
+      <File FileName="HannahProject/ThirdPage.xaml.cs" Line="21" Column="2" />
+      <File FileName="HannahProject/SecondPage.xaml" Line="14" Column="1" />
+      <File FileName="HannahProject/SecondPage.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
