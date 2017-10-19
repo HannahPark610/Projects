@@ -6,7 +6,14 @@
     <ContentPage.Content>
         <StackLayout>
     <ListView x:Name="SecondPageListView"
-        HasUnevenRows="True">
+        HasUnevenRows="True" ItemTapped="Handle_ItemTapped">
+                
+    <Label Text="{Binding Text}">
+    <Label.GestureRecognizers>
+        <TapGestureRecognizer Command="{Binding LabelCommand}"
+                          CommandParameter="{Binding Data}" />
+    </Label.GestureRecognizers>
+</Label>  
     </ListView>
             </StackLayout>
     </ContentPage.Content>

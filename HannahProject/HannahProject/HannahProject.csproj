@@ -41,6 +41,7 @@
     <EmbeddedResource Include="ThirdPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="logo.png" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">

@@ -7,6 +7,11 @@ namespace HannahProject
 {
     public partial class ThirdPage : IValueConverter
     {
+		public ThirdPage()
+		{
+			InitializeComponent();
+		}
+
 		public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
 		{
 			var eventArgs = value as ItemTappedEventArgs;

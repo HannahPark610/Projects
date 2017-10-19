@@ -9,7 +9,11 @@ namespace HannahProject
             InitializeComponent();
 
             MainPage = new NavigationPage(new LoginPage());
+
+            //MainPage = new ThirdPage();
+
         }
+
 
         protected override void OnStart()
         {
@@ -25,5 +29,6 @@ namespace HannahProject
         {
             // Handle when your app resumes
         }
+
     }
 }

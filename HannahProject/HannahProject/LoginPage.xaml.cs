@@ -25,6 +25,9 @@ namespace HannahProject
             Lb1_Username.TextColor = Constants.MainTextColor;
             Lb1_Password.TextColor = Constants.MainTextColor;
             ActivitySpinner.IsVisible = false;
+            var imgsrc = ImageSource.FromResource("HannahProject.logo.png");
+            myImage.Source = imgsrc;
+            //var embeddedImage = new Image { Source = ImageSource.FromResource("logo.png") };
             //LoginIcon.HeightRequest = Constants.LoginIconHeight;
 
             Entry_Username.Completed += (s, e) => Entry_Password.Focus();

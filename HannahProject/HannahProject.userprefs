@@ -1,13 +1,17 @@
 ﻿<Properties StartupConfiguration="{705C85D8-98D1-43FD-8A57-B8B5F8D77A6E}|Default">
   <MonoDevelop.Ide.ItemProperties.HannahProject.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HannahProject/SecondPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HannahProject/obj/Debug/HannahProject.ThirdPage.xaml.g.cs">
     <Files>
-      <File FileName="HannahProject/LoginPage.xaml" Line="31" Column="1" />
-      <File FileName="HannahProject/obj/Debug/HannahProject.LoginPage.xaml.g.cs" Line="1" Column="1" />
-      <File FileName="HannahProject/LoginPage.xaml.cs" Line="28" Column="15" />
-      <File FileName="HannahProject/ThirdPage.xaml.cs" Line="21" Column="2" />
-      <File FileName="HannahProject/SecondPage.xaml" Line="14" Column="1" />
-      <File FileName="HannahProject/SecondPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="HannahProject/ThirdPage.xaml" Line="31" Column="1" />
+      <File FileName="HannahProject/ThirdPage.xaml.cs" Line="23" Column="4" />
+      <File FileName="HannahProject/SecondPage.xaml.cs" Line="20" Column="32" />
+      <File FileName="HannahProject/SecondPage.xaml" Line="21" Column="1" />
+      <File FileName="HannahProject/App.xaml.cs" Line="18" Column="42" />
+      <File FileName="HannahProject/App.xaml" Line="6" Column="15" />
+      <File FileName="HannahProject/LoginPage.xaml.cs" Line="20" Column="12" />
+      <File FileName="HannahProject/FirstPage.cs" Line="1" Column="1" />
+      <File FileName="HannahProject/FirstPage.xaml" Line="8" Column="1" />
+      <File FileName="HannahProject/obj/Debug/HannahProject.ThirdPage.xaml.g.cs" Line="24" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
